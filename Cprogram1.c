@@ -21,23 +21,5 @@ TC = Qty*PPC+Shipcost;
 
 printf("For the product having product code %c, %d number of pieces, costing %.2f Rs. per piece ans also Having the Extra cost for shipping %.2f Rs. The Total Cost of the Product Purchased is %.2f:", procode, Qty, PPC, Shipcost, TC);
 
-
-
-
-
-
- }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// this is my first Home Work ever done on C.
+}
